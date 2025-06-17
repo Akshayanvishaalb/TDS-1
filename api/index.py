@@ -1,1 +1,0 @@
-from newdeploy import app
